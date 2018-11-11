@@ -1,3 +1,3 @@
-console.log("Hello Andrii");
+console.log("Hello Andrii and All");
 //
 console.log("??");
